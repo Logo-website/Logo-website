@@ -43,6 +43,6 @@
 - **[Конструктор сайтов](https://github.com/Logo-website/unser-project)** - генератор лендингов на React + TypeScript с бэкендом на Python.
 - **[Лендинг логопеда](https://logo-website.github.io)** - одностраничный сайт услуг, свёрстан на HTML, хостинг GitHub Pages.
 
-### Статистика
+### Связаться
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Logo-website&show_icons=true&hide_border=true&theme=default&locale=ru)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Mr_AmirhkhanOv)
